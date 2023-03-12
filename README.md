@@ -14,7 +14,7 @@ will update based on the hour of the day. For example,
 Red = "current hour", Green = "future hour", and Grey = "past hour".
 At 6pm each day your calendar will refresh. 
 
-#Screenshot
+# Screenshot
 
 
 
