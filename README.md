@@ -1,6 +1,7 @@
 # Work-Day-Scheduler
 
 # URL
+https://saway11.github.io/Third-Party-APIs/
 
 # Description
 Created a daily planner to allow you to input your daily
@@ -15,12 +16,12 @@ Red = "current hour", Green = "future hour", and Grey = "past hour".
 At 6pm each day your calendar will refresh. 
 
 # Screenshot
-
-
+![Screenshot (2)](https://user-images.githubusercontent.com/123338891/224581408-590426d8-bc4a-46f3-8d41-48e177f6f8ae.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/123338891/224581404-bc49cbc7-7949-4f6f-9694-e046a05308b4.png)
 
 
 # Credits
-UC Berkeley Cooding bootcamp, Google
+UC Berkeley Cooding bootcamp, Sam, Google, Dayjs
 
 # License 
 MIT License
